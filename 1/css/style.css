@@ -1,0 +1,38 @@
+body {
+	padding-top: 30px;
+	background-color: #3399cc !important;
+}
+
+.colorYellow {
+	background-color: #FFB800 !important;
+}
+
+.colorBlue {
+	background-color: #3399cc !important;
+}
+
+.noMargin {
+	margin-top: -30px !important;
+}
+
+.textWhite {
+	color: white !important;
+
+}
+
+.textOffWhite {
+	color: #f0ead6 !important;
+	
+}
+
+.btn-flat {
+	background-color: none !important;
+	border: thin solid white;
+}
+
+.myDivider {
+	margin-top: -10px;
+	margin-bottom: 30px;
+	height: 1px;
+	border: medium solid white;
+}
